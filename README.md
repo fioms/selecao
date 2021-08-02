@@ -1,4 +1,4 @@
-# selecao
+# Seleção
 
 Estamos selecionando desenvolvedores Front-end para elaboração do material de um curso autoinstrucional.
 
