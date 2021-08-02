@@ -1,4 +1,4 @@
-# Seleção
+# Seleção Dev Front-end + Figma
 
 Estamos selecionando desenvolvedores Front-end para elaboração do material de um curso autoinstrucional.
 
